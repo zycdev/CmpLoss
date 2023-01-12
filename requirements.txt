@@ -1,0 +1,11 @@
+jupyterlab==3.4.5
+tensorboard==2.10.0
+ipywidgets==8.0.2
+torch==1.11.0
+scikit-learn==1.1.1
+scipy==1.8.1
+tokenizers==0.12.1
+datasets==2.1.0
+transformers==4.19.2
+python-Levenshtein==0.20.8
+matplotlib==3.6.2
