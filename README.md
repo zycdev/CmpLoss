@@ -27,7 +27,7 @@ The commands to run the experiments on GLUE, SQuAD, and HotpotQA are placed
 in [scripts](https://github.com/zycdev/CmpLoss/tree/main/scripts).
 The code and models for the experiments on MS MARCO can be found at [LoL](https://github.com/zycdev/LoL).
 If you want to train your models on other tasks with comparative loss, you can refer to `CmpQA`
-in [modeling.py](https://github.com/zycdev/CmpLoss/blob/main/modeling.py#197)
+in [modeling.py](https://github.com/zycdev/CmpLoss/blob/main/modeling.py#L197)
 and [run_hotpot.py](https://github.com/zycdev/CmpLoss/blob/main/run_hotpot.py).
 
 If you use comparative loss in your work, please consider citing our paper:
