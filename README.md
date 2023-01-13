@@ -58,4 +58,4 @@ and [run_hotpot.py](https://github.com/zycdev/CmpLoss/blob/main/run_hotpot.py).
 
 ## Contact
 
-For any questions about the paper or the code, please contact the first authors or leave issues. 
+For any questions about the paper or the code, please contact the first author or leave issues. 
